@@ -3,7 +3,8 @@
 **Matrícula:** 20241203  
 
 ## Descripción
-Repositorio individual para la práctica P2: ataque Rogue DHCP en la asignatura Seguridad de Redes.
+Repositorio individual para la práctica P2: ataque Rogue DHCP en la asignatura Seguridad de Redes.  
+Este ataque se basa en levantar un servidor DHCP falso que responde más rápido que el servidor legítimo, asignando direcciones IP incorrectas y redirigiendo el tráfico hacia un atacante.
 
 ## Archivos incluidos
 - `Viensy_20241203_RogueDHCP_P2.py` → Script en Python para el ataque.
