@@ -1,5 +1,5 @@
 # Práctica P2 - Rogue DHCP
-** Viensy Pérez 
+Viensy Pérez 
 **Matrícula:** 20241203  
 
 ## Descripción
