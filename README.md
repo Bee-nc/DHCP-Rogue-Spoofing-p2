@@ -19,7 +19,7 @@ El laboratorio utiliza direccionamiento basado en la matrícula:
 - Kali (servidor DHCP falso): `192.168.120.99`
 - VPCS (PC1): recibe IP falsa (ej. `192.168.120.200`)
 ## 🎥 Video
-👉 [Ver demostración en YouTube]([https://youtu.be/pTHRTvgymaA](https://www.youtube.com/playlist?list=PLLg_Q-fL0LdJKLXCK0P90yAFpeDc8ml5L)
+👉 [Ver demostración en YouTube](https://www.youtube.com/playlist?list=PLLg_Q-fL0LdJKLXCK0P90yAFpeDc8ml5L)
 
 ## Ejecución del script
 En Kali:
